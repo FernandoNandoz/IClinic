@@ -1,0 +1,379 @@
+C:\Repositorio C#\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Repositorio C#\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Repositorio C#\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.cache
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.pdb
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPaciente.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmNovoAgendamento.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarCidade.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarEstado.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.csprojAssemblyReference.cache
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarCidade.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarEstado.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPaciente.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarUsuario.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmNovoAgendamento.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.cache
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Users\Dinaias\Desktop\FERNANDO\IClinic\IClinic\obj\Debug\IClinic.pdb
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.csprojAssemblyReference.cache
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarCargo.resources
+C:\Repositorio C#\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarFormacao.resources
+C:\IClinic - 0006\IClinic\bin\Debug\IClinic.exe.config
+C:\IClinic - 0006\IClinic\bin\Debug\IClinic.exe
+C:\IClinic - 0006\IClinic\bin\Debug\IClinic.pdb
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.csproj.AssemblyReference.cache
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.csproj.SuggestedBindingRedirects.cache
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarCargo.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarCidade.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarEstado.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarFormacao.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPaciente.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmNovoAgendamento.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.csproj.GenerateResource.cache
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.exe
+C:\IClinic - 0006\IClinic\obj\Debug\IClinic.pdb
+C:\Users\nando\source\repos\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Users\nando\source\repos\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Users\nando\source\repos\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.csproj.AssemblyReference.cache
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarCargo.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarCidade.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarEstado.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarFormacao.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPaciente.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmNovoAgendamento.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.cache
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Users\nando\source\repos\IClinic\IClinic\obj\Debug\IClinic.pdb
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.pdb
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.Cache
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\mscorlib.dll
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\System.Net.Http.dll
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\System.Net.Http.xml
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\normidna.nlp
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\normnfc.nlp
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\normnfd.nlp
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\normnfkc.nlp
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\bin\Debug\normnfkd.nlp
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarUsuario.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDetalhesFicha.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.csprojResolveAssemblyReference.cache
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.pdb
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.Cache
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.AssemblyReference.cache
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarUsuario.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDetalhesFicha.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.cache
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.pdb
+C:\Users\nando\Desktop\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Users\nando\Desktop\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Users\nando\Desktop\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Users\nando\Desktop\IClinic\IClinic\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\nando\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.CopyComplete
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.csproj.AssemblyReference.cache
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarUsuario.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDetalhesFicha.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.cache
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.csproj.CopyComplete
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\obj\Debug\IClinic.pdb
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\bin\Debug\System.Data.SqlClient.dll
+C:\Users\nando\Desktop\Clinic_Client_IP\IClinic\IClinic\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\System.Data.Common.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmDocumentosImpressao.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmUsuario.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmPerfil.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmProcedimento.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmProfissional.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Reports.ReportCadastros.frmReportColaborador.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.csproj.CopyComplete
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.csprojAssemblyReference.cache
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\RdlCompile.cache
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\RdlCompile.compiled
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Reports.ReportCadastros.frmReportUsuario.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Reports.ReportCadastros.frmReportPaciente.resources
+C:\Users\Bacurauu\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmBackup.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\IClinic.exe.config
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\IClinic.exe
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\IClinic.pdb
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\System.Data.Common.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\System.Data.SqlClient.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.csproj.AssemblyReference.cache
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmUsuario.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmBackup.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmDocumentosImpressao.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmPerfil.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmProcedimento.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmProfissional.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmIniciarAtendimento.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Reports.ReportCadastros.frmReportColaborador.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Reports.ReportCadastros.frmReportPaciente.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.Reports.ReportCadastros.frmReportUsuario.resources
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.csproj.GenerateResource.cache
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.csproj.CopyComplete
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.exe
+C:\Users\nando\source\Repositories\IClinic\IClinic\obj\Debug\IClinic.pdb

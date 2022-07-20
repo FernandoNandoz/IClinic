@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "42WUziAUi9caO2WOGOQzOYH88PiZowCIjxBs3eGJTdiVVQkdT0+zHvI+831GDMGLWza0qkybvcKzaEBFrbwA7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nando\\source\\Repositories\\IClinic\\IClinic\\IClinic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nando\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1484.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1484.0.nupkg.sha512",
+    "C:\\Users\\nando\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.1016.290\\microsoft.sqlserver.types.14.0.1016.290.nupkg.sha512",
+    "C:\\Users\\nando\\.nuget\\packages\\sqltabledependency\\8.5.8\\sqltabledependency.8.5.8.nupkg.sha512",
+    "C:\\Users\\nando\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\nando\\.nuget\\packages\\system.data.common\\4.3.0\\system.data.common.4.3.0.nupkg.sha512",
+    "C:\\Users\\nando\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\nando\\.nuget\\packages\\visualbasic.powerpacks.vs\\1.0.0\\visualbasic.powerpacks.vs.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

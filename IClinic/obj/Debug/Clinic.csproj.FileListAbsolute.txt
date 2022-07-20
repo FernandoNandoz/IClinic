@@ -1,0 +1,17 @@
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarUsuario.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPais.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarPerfil.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProcedimento.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.Cadastro.frmCadastrarProfissional.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.FichaItem.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAgenda.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmAtendimento.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmConfiguracoes.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmDashboard.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmFichaClinica.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmLogin.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmPacientes.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.frmPrincipal.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Forms.frmRelatorio.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\IClinic.Properties.Resources.resources
+C:\Users\Edimar e Damiana\Desktop\IClinic\IClinic\obj\Debug\Clinic.csproj.GenerateResource.Cache

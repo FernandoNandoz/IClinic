@@ -1,0 +1,38 @@
+
+Passo 1
+
+1.1 Server propriedades > security 
+	(Alterar o server authentication para sql server e windows authentication)
+	(Alterar login auditing para None).
+
+1.2 Server propriedades > connections
+	(Alterar o numero maximo de conexoes no banco para 50)
+	(Alterar o Remote query timeout para 0 seconds).
+
+
+Passo 2
+
+2.1 Pasta Security > Logins > sa = Propriedades sa > General
+	(Altere a senha para uma senha que conheca e que seja facil de lembrar)
+
+2.2 Pasta Security > Logins > sa = Propriedades sa > Status
+	(Marque no regiao de Login a opcao Enable)
+
+
+Passo 3
+
+3.1 Abra a Ferramento SQL Server Configuration Manager.
+
+3.2 Apos aberto, abra a aba SQL Server Network Configuration > Protocols for MSSQLSERVER
+
+3.3 Ao abrir, clique em TCP/IP, abra as propriedades, selecione a aba IP Addresses e altere 
+a propriedade Enable para Yes.
+
+3.4 Apos isso, clique em aplicar alterações, va em SQL Server Services > Selecione o servico SQL Server e Reinicie.
+
+
+Passo 4
+
+4.1 Abra o seu terminal (Power Shell) e execute codigo de liberacao da porta de conexao do servidor.
+
+New-NetFirewallRule -DisplayName "SQLServer default instance" -Direction Inbound -LocalPort 1433 -Protocol TCP -Action Allow
